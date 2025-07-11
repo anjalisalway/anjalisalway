@@ -8,4 +8,4 @@
 ## 📫 Let's Connect
 
 - 📧 **Email**: [salway.anjali126@gmail.com](mailto:salway.anjali126@gmail.com)  
-- 🔗 **LinkedIn**: [[www.linkedin.com/in/anjali-salway](www.linkedin.com/in/anjali-salway)]
+- 🔗 **LinkedIn**: [www.linkedin.com/in/anjali-salway](www.linkedin.com/in/anjali-salway)
