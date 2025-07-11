@@ -1,11 +1,10 @@
 # 👋 Hey, I'm Anjali 
 
-## 🎓 AI & Data Science Student 
-</br>
+### 🎓 AI & Data Science Student 
 🔍 Exploring GenAI and ML one project at a time.
 
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 - 📧 **Email**: [salway.anjali126@gmail.com](mailto:salway.anjali126@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/anjali-salway](https://linkedin.com/in/anjali-salway) 
