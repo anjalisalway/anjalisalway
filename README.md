@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anjali 
 
-🎓 AI & Data Science Student 
+## 🎓 AI & Data Science Student 
 </br>
 🔍 Exploring GenAI and ML one project at a time.
 
